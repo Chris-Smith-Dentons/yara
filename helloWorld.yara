@@ -1,4 +1,4 @@
-rule helloWorld
+Rule helloWorld
 {
     condition:
         true
